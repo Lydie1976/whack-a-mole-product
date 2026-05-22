@@ -34,6 +34,10 @@ npm run build
 
 ## 部署
 
+Production URL：
+
+- https://whack-a-mole-product.vercel.app
+
 Vercel 設定：
 
 - Framework Preset：Next.js

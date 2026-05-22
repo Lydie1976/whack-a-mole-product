@@ -1,5 +1,11 @@
 # Vercel Deploy
 
+Production URL：
+
+```text
+https://whack-a-mole-product.vercel.app
+```
+
 ## Vercel Dashboard
 
 1. Import GitHub repo：`whack-a-mole-product`

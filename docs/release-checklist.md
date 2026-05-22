@@ -11,5 +11,5 @@
 - [x] `npm run lint` 通過
 - [x] `npm run typecheck` 通過
 - [x] `npm run build` 通過
-- [ ] GitHub repo 已推送
-- [ ] Vercel production URL 可開啟
+- [x] GitHub repo 已推送
+- [x] Vercel production URL 可開啟
